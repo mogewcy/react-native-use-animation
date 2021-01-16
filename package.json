@@ -1,0 +1,23 @@
+{
+  "name": "react-native-use-animation",
+  "version": "0.0.1",
+  "description": "Collection of React Hooks for React Native Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogewcy/react-native-use-animation.git"
+  },
+  "keywords": [],
+  "author": "mogewcy <hustwcy@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mogewcy/react-native-use-animation/issues"
+  },
+  "homepage": "https://github.com/mogewcy/react-native-use-animation#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
